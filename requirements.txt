@@ -1,4 +1,4 @@
 dlib>=18.18
 opencv>=3.4.4
-imutils
-python3
+imutils>=0.4.6
+python>=3.7.2
