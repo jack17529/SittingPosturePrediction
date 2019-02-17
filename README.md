@@ -28,3 +28,14 @@ Real-time head pose estimation built with OpenCV and dlib
 Finally, with solvepnp function in OpenCV, we can achieve real-time head pose estimation.
 <br><br>
 
+# Running
+
+1. Download the project and extract it.
+2. Install the requirements using <br>
+```
+pip install -r /path/to/requirements.txt
+```
+3. Run using Python 3 <br>
+```
+python 
+```
