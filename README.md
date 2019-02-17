@@ -37,5 +37,5 @@ pip install -r /path/to/requirements.txt
 ```
 3. Run using Python 3 <br>
 ```
-python 
+python video_test_shape.py
 ```
