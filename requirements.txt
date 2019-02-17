@@ -1,4 +1,4 @@
-dlib
-opencv
+dlib>=18.18
+opencv>=3.4.4
 imutils
 python3
