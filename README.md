@@ -39,5 +39,5 @@ pip install -r /path/to/requirements.txt
 ```
 python video_test_shape.py
 ```
-# Special Thanks
+# Special Thanks :)
 lincolnhard's head-pose-estimation repository on GitHub. 
